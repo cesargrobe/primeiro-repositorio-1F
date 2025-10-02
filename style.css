@@ -7,7 +7,19 @@ header {
     border: solid 2px rgb(232, 219, 72);
     font-size: 32px;
     padding: 10px;
-    color: aqua;
+    color: rgb(197, 109, 129);
+}
+
+section {
+    background-color: #7c0ccc; /* Cor escolhida */
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
 
 h1 {
